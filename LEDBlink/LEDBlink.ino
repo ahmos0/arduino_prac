@@ -1,4 +1,4 @@
-const int  LED = 2;
+const int LED = 2;
 
 void setup()
 {
